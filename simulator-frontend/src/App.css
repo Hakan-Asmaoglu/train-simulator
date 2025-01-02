@@ -193,7 +193,8 @@ input[type='range'] {
 }
 
 .radio-group label {
-  font-weight: normal;
+  font-weight: bold;
+
 }
 
 /* Simulation result section */
